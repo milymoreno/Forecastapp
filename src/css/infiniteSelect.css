@@ -1,0 +1,12 @@
+.loadingSpan{
+    position: absolute;
+}
+
+@media (min-width: 992px) {
+    .infiniteLoader{
+        position: absolute;
+        right: 10px;
+        top: 13px;
+        z-index: 10;
+    }
+}
